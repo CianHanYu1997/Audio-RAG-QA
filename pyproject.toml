@@ -1,7 +1,7 @@
 [project]
 name = "ragoveraudio"
 version = "0.1.0"
-description = "Add your description here"
+description = "A demo project that transforms audio into searchable transcripts and enables users to query the content through a RAG pipeline."
 requires-python = ">=3.13"
 dependencies = [
     "assemblyai>=0.44.3",
